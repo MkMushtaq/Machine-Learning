@@ -1,2 +1,5 @@
 A simple linear regression implementation without using external libraries (like scikit etc), on pubg-dataset. It runs over different lerning rate values 
 and correspondingly plots no. of iterations vs error plot.
+Make sure to download data-sets from, 
+a. Training: https://drive.google.com/file/d/1i3BFzLvyZ9tFJHKlXDC2CzrLd_8lXy7b/view?usp=sharing
+b. Test: https://drive.google.com/file/d/1Gf2Jf2hEnWiFEWOP_3KHRMNpwORd-Rr3/view?usp=sharing
