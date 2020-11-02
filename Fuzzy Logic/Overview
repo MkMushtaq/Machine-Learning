@@ -1,0 +1,3 @@
+This is a Python that reads in two crisp inputs x1 and x2, and generates a crisp output y. In the real world of 
+the Breakout Detection System, the two inputs correspond to the temperature slope, and the temperature rise, at any given instant of the process. 
+The output is the value of Breakoutability.
